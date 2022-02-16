@@ -2,10 +2,12 @@
 Scripts for FC StowMaps
 
 
-<a href="https://github.com/Brikane/FCStowMap/raw/main/FC%20StowMap%20V0_7%20Beta%20Test.user.js">FC StowMap V0.7 Beta Test text</a>
+<a href="https://github.com/Brikane/FCStowMap/raw/main/FC%20StowMap%20V0_7%20Beta%20Test.user.js">FC StowMap V0.8b Beta Test text</a>
 
 
 Old
+
+<a href="https://github.com/Brikane/FCStowMap/raw/main/FC%20StowMap%20V0_7%20Beta%20Test.user.js">FC StowMap V0.7 Beta Test text</a>
 
 <a href="https://github.com/Brikane/FCStowMap/raw/main/FCStowmapAutodownloaV0_5b.user.js">FC StowMap V0.5 Alpha Test text</a>
 
